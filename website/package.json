@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@dipakparmar/docusaurus-plugin-umami": "^2.0.6",
-    "@docusaurus/core": "3.6.3",
-    "@docusaurus/preset-classic": "3.6.3",
+    "@docusaurus/core": "3.9.0",
+    "@docusaurus/preset-classic": "3.9.0",
     "@getcanary/docusaurus-theme-search-pagefind": "^1.0.2",
     "@getcanary/web": "^1.0.12",
     "classnames": "^2.2.6",
